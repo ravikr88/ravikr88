@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ravikr88
-- 👀 I’m interested in Software Engineering, Blockchain, Web3, some AI/ML
+- 👋 Hi, I’m Ravikant Kumar
+- 👀 Into Software Engineering, Blockchain, Web3, AI/ML
 - 🌱 I’m currently learning as much as I can
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Self Taught Engineer
